@@ -7,8 +7,8 @@
 
 **Install**
 1. Download and put the files in the Mission folder.
-2. Create one or more objects and give the variable names.
-3. Put this Variable Names in the file "init.sqf" to the "medicTentBox" array.
+2. Create one or more objects and give them variable names.
+3. Put this variable names in the file "init.sqf" to the "medicTentBox" array.
 
 e.g.
 ```
